@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0031firstproject" />
+            <option value="$PROJECT_DIR$/p0041basicviews" />
+            <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0061layouts" />
+            <option value="$PROJECT_DIR$/p0071layoutproperties" />
+            <option value="$PROJECT_DIR$/p0072layoutproperties" />
+            <option value="$PROJECT_DIR$/p0081viewbyid" />
+            <option value="$PROJECT_DIR$/p0091onclickbutton" />
+            <option value="$PROJECT_DIR$/p0101listener" />
+            <option value="$PROJECT_DIR$/p0102activitylistener" />
+            <option value="$PROJECT_DIR$/p0103layoutlistener" />
+            <option value="$PROJECT_DIR$/p0111resvalues" />
+            <option value="$PROJECT_DIR$/p0121logandmess" />
+            <option value="$PROJECT_DIR$/p0131_menusimple" />
+            <option value="$PROJECT_DIR$/p0141_menuadv" />
+            <option value="$PROJECT_DIR$/p0151_contextmenu" />
+            <option value="$PROJECT_DIR$/p0152_contextmenuxml" />
+            <option value="$PROJECT_DIR$/p0161_dynamiclayout" />
+            <option value="$PROJECT_DIR$/p0171_dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0181_dynamiclayout3" />
+            <option value="$PROJECT_DIR$/p1801constraintlayoutintro" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

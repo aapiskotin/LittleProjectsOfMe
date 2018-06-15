@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroidLessons.iml" filepath="$PROJECT_DIR$/StartAndroidLessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0061layouts/p0061layouts.iml" filepath="$PROJECT_DIR$/p0061layouts/p0061layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0071layoutproperties/p0071layoutproperties.iml" filepath="$PROJECT_DIR$/p0071layoutproperties/p0071layoutproperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0072layoutproperties/p0072layoutproperties.iml" filepath="$PROJECT_DIR$/p0072layoutproperties/p0072layoutproperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" filepath="$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0091onclickbutton/p0091onclickbutton.iml" filepath="$PROJECT_DIR$/p0091onclickbutton/p0091onclickbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0101listener/p0101listener.iml" filepath="$PROJECT_DIR$/p0101listener/p0101listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0102activitylistener/p0102activitylistener.iml" filepath="$PROJECT_DIR$/p0102activitylistener/p0102activitylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0103layoutlistener/p0103layoutlistener.iml" filepath="$PROJECT_DIR$/p0103layoutlistener/p0103layoutlistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0111resvalues/p0111resvalues.iml" filepath="$PROJECT_DIR$/p0111resvalues/p0111resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0121logandmess/p0121logandmess.iml" filepath="$PROJECT_DIR$/p0121logandmess/p0121logandmess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0131_menusimple/p0131_menusimple.iml" filepath="$PROJECT_DIR$/p0131_menusimple/p0131_menusimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" filepath="$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0151_contextmenu/p0151_contextmenu.iml" filepath="$PROJECT_DIR$/p0151_contextmenu/p0151_contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0152_contextmenuxml/p0152_contextmenuxml.iml" filepath="$PROJECT_DIR$/p0152_contextmenuxml/p0152_contextmenuxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0161_dynamiclayout/p0161_dynamiclayout.iml" filepath="$PROJECT_DIR$/p0161_dynamiclayout/p0161_dynamiclayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0171_dynamiclayout2/p0171_dynamiclayout2.iml" filepath="$PROJECT_DIR$/p0171_dynamiclayout2/p0171_dynamiclayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0181_dynamiclayout3/p0181_dynamiclayout3.iml" filepath="$PROJECT_DIR$/p0181_dynamiclayout3/p0181_dynamiclayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1801constraintlayoutintro/p1801constraintlayoutintro.iml" filepath="$PROJECT_DIR$/p1801constraintlayoutintro/p1801constraintlayoutintro.iml" />
+    </modules>
+  </component>
+</project>

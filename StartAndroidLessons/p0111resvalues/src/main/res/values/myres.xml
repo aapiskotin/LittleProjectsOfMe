@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvTopText">Up Text</string>
+    <string name="btnTopText">Up Button</string>
+    <string name="tvBottomText">Drop Text</string>
+    <string name="btnBottomText">Drop button</string>
+    <color name="llTopColor">#FF8E42</color>
+    <color name="llBottomColor">#0BF93D</color>
+</resources>

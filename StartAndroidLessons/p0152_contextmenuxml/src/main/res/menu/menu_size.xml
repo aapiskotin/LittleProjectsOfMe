@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="40dp"
+        android:id="@+id/SET_40">
+    </item>
+
+    <item
+        android:id="@+id/SET_50"
+        android:title="50dp">
+    </item>
+
+    <item
+        android:title="60dp"
+        android:id="@+id/SET_60">
+    </item>
+
+</menu>
